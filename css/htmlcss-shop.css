@@ -13,3 +13,21 @@
   width: 300px;
   height: 370px;
 }
+
+.up_row{
+  margin-top: 30px;
+}
+
+.sconto{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.green{
+  background: green;
+}
+
+.red{
+  background: red;
+}
