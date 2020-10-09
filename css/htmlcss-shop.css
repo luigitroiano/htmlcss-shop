@@ -15,7 +15,7 @@
 }
 
 .up_row{
-  margin-top: 30px;
+  margin-top: 25px;
 }
 
 .sconto{
@@ -34,4 +34,21 @@
 
 .icon_heart{
   color: red;
+  position: absolute;
+  bottom: 10px;
+  left: 145px;
+  display: none;
+}
+
+.product:hover .icon_heart{
+  display: block;
+}
+
+.product:hover{
+  cursor: pointer;
+}
+
+footer{
+  margin-top: 5px;
+  text-align: center;
 }
